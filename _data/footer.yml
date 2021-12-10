@@ -7,10 +7,7 @@
     link: /contact/
 - links:
   - name: Sign Up
-    link: /
-    new_window: true
-  - name: Docs
-    link: /
+    link: /#TODO: Typeform
     new_window: true
 - links:
   - name: LinkedIn
