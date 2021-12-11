@@ -1,0 +1,38 @@
+---
+title: FAQ
+heading: Join the group coaching program
+description: The program is designed to deliberately free and accessible for anyone who is committed to making the most of it.  
+faq:
+  - question: Why charge for a free course?
+    answer: placeholder  TODO
+  - question: How will I know if I'll get my money back?
+    answer: placeholder  TODO
+  - question: What types of payment do you accept?
+    answer: Credit cards including MasterCard, Visa or American Express.  TODO
+  - question: Do you offer scholarships for students who can't afford spend $200 if they don't complete the program?
+    answer: Yes, send us a message and we'll set you up on our nonprofit pricing.
+  - question: question
+    answer: answer
+  - question: question
+    answer: answer
+  - question: question
+    answer: answer
+  - question: question
+    answer: answer
+  - question: question
+    answer: answer
+  - question: question
+    answer: answer
+
+---
+{% if page.faq %}
+	<h2>Program FAQ</h2>
+	<dl class="faq">
+		{% for item in page.faq %}
+			<div>
+				<dt>{{ item.question }}</dt>
+				<dd>{{ item.answer }}</dd>
+			</div>
+		{% endfor %}
+	</dl>
+{% endif %}
