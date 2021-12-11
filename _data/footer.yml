@@ -8,7 +8,10 @@
   - name: FAQ
     link: /faq/
 - links:
-  - name: Sign Up
+  - name: Apply
+    link: /Typeform
+    new_window: true
+  - name: Mailing List
     link: /Typeform
     new_window: true
 - links:
