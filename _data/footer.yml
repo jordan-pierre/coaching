@@ -1,8 +1,8 @@
 - links:
+  - name: Coaching
+    link: /bootcamp/
   - name: Pricing
     link: /pricing/
-  - name: About
-    link: /about/
   - name: Contact
     link: /contact/
   - name: FAQ
