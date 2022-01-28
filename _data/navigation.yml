@@ -1,20 +1,20 @@
-- name: Pricing
+- name: 🚀 Data Pro Bootcamp
+  link: /bootcamp/
+  new_window: false
+  highlight: false
+- name: 💲 Pricing
   link: /pricing/
   new_window: false
   highlight: false
-- name: About
-  link: /about/
-  new_window: false
-  highlight: false
-- name: FAQ
+- name: 🤔 FAQ
   link: /faq/
   new_window: false
   highlight: false
-- name: Contact
+- name: 📧 Contact
   link: /contact/
   new_window: false
   highlight: false
 - name: Apply
   link: /
-  new_window: true
+  new_window: false
   highlight: true
